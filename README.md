@@ -11,7 +11,3 @@ pip install -r requirements.txt
 
 ```
 
-### username and password
-
-username : LarrysProlink
-password : ^Waialae96816$
